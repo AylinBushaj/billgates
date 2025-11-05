@@ -4,6 +4,8 @@ Bu proje, Bill Gates’in hayali bakiyesiyle çeşitli lüks ürünleri satın a
 
 Proje, **React** ve **Vite** kullanılarak geliştirilmiştir.
 
+<img width="1369" height="864" alt="Ekran Resmi 2025-11-05 15 44 08" src="https://github.com/user-attachments/assets/d58a0f99-e5e3-4ff7-a0bf-c15b8c471582" />
+
 ---
 
 ## Özellikler
@@ -33,12 +35,12 @@ git clone <repository-url>
 cd bill-gates-spending
 ````
 
-Gerekli bağımlılıkları yükleyin:
+2. Gerekli bağımlılıkları yükleyin:
 ```bash
 npm install
 ```
 
-Uygulamayı başlatın:
+3. Uygulamayı başlatın:
 ```bash
 npm run dev
 ````
