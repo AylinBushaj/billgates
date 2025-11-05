@@ -1,3 +1,4 @@
+Projenin Canlı Linki ---> https://billgatesaylin.netlify.app/
 # Bill Gates Harcama Oyunu
 
 Bu proje, Bill Gates’in hayali bakiyesiyle çeşitli lüks ürünleri satın alabileceğiniz etkileşimli bir web uygulamasıdır. Kullanıcılar ürünleri satın alabilir, satabilir ve bakiye durumunu gerçek zamanlı olarak görebilir.
